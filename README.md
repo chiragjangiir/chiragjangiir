@@ -2,7 +2,6 @@
 
 <img src="profile-header.svg" alt="Chirag Jangir — independent engineering, AI systems, and open source" width="100%">
 
-# Chirag Jangir
 
 **Software, intelligence, and the layers beneath.**
 
