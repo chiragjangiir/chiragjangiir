@@ -7,7 +7,7 @@
 
 I work across AI applications and developer tooling — exploring how systems behave, how they fail, and how small engineering changes make them more reliable.
 
-[Projects](#selected-work) · [Open-source work](#open-source-work) · [Technical focus](#working-set)
+[Projects](#02--selected-work) · [Open-source work](#03--open-source-work) · [Technical focus](#04--working-set)
 
 </div>
 
