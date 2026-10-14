@@ -48,13 +48,13 @@ The focus is on careful preprocessing, aggregation, and interpretation—not pre
 
 ## `03 / OPEN-SOURCE WORK`
 
-I contribute to existing projects by investigating specific problems and proposing focused changes. The links below point directly to the work; their current review and merge status is visible on GitHub.
+I contribute to existing projects by investigating specific problems and proposing focused changes. The pull requests below are **in review — not yet merged**; their current review and merge status is visible on GitHub.
 
-| Project | Contribution | Focus |
-|---|---|---|
-| [OpenLLMetry #4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | Test hygiene · Sensitive-data handling |
-| [MoneyPrinterTurbo #1581](https://github.com/harry0703/MoneyPrinterTurbo/pull/1581) | `feat(llm): add local OpenCode CLI provider with dynamic model discovery` | LLM integrations · Local developer tooling |
-| [Java Docs Samples](https://github.com/GoogleCloudPlatform/java-docs-samples) | Documentation improvements: product-level READMEs and documentation corrections | Developer experience · Documentation |
+| Project | PR | Contribution | Status | Focus |
+|---|---|---|---|---|
+| OpenLLMetry | [#4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | In review · not merged | Test hygiene · Sensitive-data handling |
+| MoneyPrinterTurbo | [#1581](https://github.com/harry0703/MoneyPrinterTurbo/pull/1581) | `feat(llm): add local OpenCode CLI provider with dynamic model discovery` | In review · not merged | LLM integrations · Local developer tooling |
+| Java Docs Samples | Documentation improvements: product-level READMEs and documentation corrections | In review · not merged | Developer experience · Documentation |
 
 ## `04 / WORKING SET`
 
