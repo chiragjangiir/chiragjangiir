@@ -4,9 +4,6 @@
 
 **AI/ML, GenAI, developer tools, and open source — built one useful contribution at a time.**
 
-<a href="https://github.com/chiragjangiir"><img src="assets/network.svg" width="100%" alt="GitHub network panel showing follower count, growth, and recent followers."></a>
-
-<sub>the network panel refreshes through a daily GitHub Action.</sub>
 
 </div>
 
