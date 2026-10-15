@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="246" viewBox="0 0 880 246" role="img" aria-label="GitHub network panel for chiragjangiir. Live follower data appears after the workflow runs.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;white-space:pre}</style>
+<rect x="1" y="1" width="878" height="244" rx="14" fill="#0d1117" stroke="#1f3a2c" stroke-width="2"/>
+<rect x="28" y="24" width="96" height="24" rx="12" fill="none" stroke="#00ff88"/>
+<text x="76" y="41" fill="#00ff88" font-size="13" textLength="58" lengthAdjust="spacingAndGlyphs" text-anchor="middle" font-weight="700">NETWORK</text>
+<text x="140" y="42" fill="#e6edf3" font-size="18" textLength="250" lengthAdjust="spacingAndGlyphs" font-weight="700">engineers following the work</text>
+<text x="852" y="46" fill="#00ff88" font-size="30" text-anchor="end">—</text>
+<text x="28" y="82" fill="#00ff88" font-size="13"> $ waiting for first daily refresh</text>
+<text x="852" y="82" fill="#7d8590" font-size="12" text-anchor="end">live count and growth are not pre-filled</text>
+<line x1="28" y1="98" x2="852" y2="98" stroke="#1f3a2c"/>
+<g fill="#7d8590" font-size="14">
+<text x="28" y="143">Recent followers will appear here after the workflow runs.</text>
+<text x="28" y="170">No follower counts or growth figures are fabricated.</text>
+</g>
+<text x="852" y="232" fill="#4b5563" font-size="11" text-anchor="end">chiragjangiir · GitHub Action updates this panel daily</text>
+</svg>
