@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Chirag Jangir — terminal profile header</title>
+  <desc id="desc">A dark terminal window introducing an engineer working on AI systems, developer tools, and open source.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101411"/><stop offset="1" stop-color="#080a09"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9be8b0" stop-opacity=".18"/><stop offset="1" stop-color="#9be8b0" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d2e8d6" stroke-opacity=".035" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="15" fill="none" stroke="#8da895" stroke-opacity=".26"/>
+  <path d="M16 0H1184Q1200 0 1200 16V54H0V16Q0 0 16 0Z" fill="#ffffff" fill-opacity=".025"/>
+  <circle cx="27" cy="27" r="5" fill="#e78d83"/><circle cx="45" cy="27" r="5" fill="#d8b66b"/><circle cx="63" cy="27" r="5" fill="#8ac99b"/>
+  <text x="86" y="31" fill="#839187" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">chirag@github ~ /profile</text>
+  <text x="64" y="92" fill="#9be8b0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">$ whoami</text>
+  <text x="64" y="145" fill="#eef5ef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="43" font-weight="700" letter-spacing="-1.5">Chirag Jangir</text>
+  <rect x="64" y="165" width="630" height="1" fill="url(#glow)"/>
+  <text x="64" y="195" fill="#b7c6ba" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">AI systems. Developer tools. Open source.</text>
+  <text x="64" y="231" fill="#7f8f82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">B.Tech CSE · AI &amp; ML · Galgotias University</text>
+  <text x="64" y="266" fill="#9be8b0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">$ git status --short</text>
+  <text x="226" y="266" fill="#8d9b90" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">building in public<span fill="#9be8b0">_</span></text>
+  <g transform="translate(865 84)" fill="none" stroke="#8bd49f" stroke-width="1.4" stroke-opacity=".8">
+    <path d="M0 20L55 0L100 38L154 12L204 54L160 106L101 91L53 126L0 91L0 20Z" stroke-opacity=".22"/>
+    <path d="M0 20L101 91L154 12M55 0L53 126M100 38L204 54L101 91L160 106M53 126L160 106" stroke-opacity=".36"/>
+    <circle cx="0" cy="20" r="4" fill="#9be8b0"/><circle cx="55" cy="0" r="4" fill="#9be8b0"/><circle cx="100" cy="38" r="4" fill="#9be8b0"/><circle cx="154" cy="12" r="4" fill="#9be8b0"/><circle cx="204" cy="54" r="4" fill="#9be8b0"/><circle cx="160" cy="106" r="4" fill="#9be8b0"/><circle cx="101" cy="91" r="4" fill="#9be8b0"/><circle cx="53" cy="126" r="4" fill="#9be8b0"/><circle cx="0" cy="91" r="4" fill="#9be8b0"/>
+  </g>
+  <text x="1136" y="278" text-anchor="end" fill="#546459" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">PROFILE // 001</text>
+</svg>
