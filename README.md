@@ -44,11 +44,25 @@ The focus is on careful preprocessing, aggregation, and interpretation—not pre
 
 I contribute to existing projects by investigating specific problems and proposing focused changes. The links below point directly to the work; their current review and merge status is visible on GitHub.
 
+### Merged contributions
+
 | Project | Contribution | Focus |
 |---|---|---|
-| [OpenLLMetry #4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | Test hygiene · Sensitive-data handling |
+| [SubtitleEdit #16005](https://github.com/SubtitleEdit/subtitleedit/pull/16005) | `IMSC 1.1: keep trailing <br/> forced line breaks` | Media & subtitles · Parser compliance |
+| [abogen #212](https://github.com/denizsafak/abogen/pull/212) | `fix(normalization): stop unclosed quotes from duplicating the text tail` | Text normalization · Edge-case handling |
+| [ViralMint #46](https://github.com/openclaw-easy/ViralMint/pull/46) | `fix(launcher): normalize X11-incompatible characters in tray titles` | Desktop tooling · Linux X11 compatibility |
+| [DevAgent #85](https://github.com/knight22-21/DevAgent/pull/85) | `fix(coordinator): log swallowed exceptions during decomposition and synthesis` | AI agents · Error observability |
+| [Clips Studio #134](https://github.com/ColinGPT9/clips-studio/pull/134) | `Download failures say which yt-dlp produced them` | CLI tooling · Failure attribution |
+
+### Ongoing pull requests
+
+| Project | Contribution | Focus |
+|---|---|---|
+| [OpenTelemetry Python #5790](https://github.com/open-telemetry/opentelemetry-python/pull/5790) | `fix(sdk): run process-dependent resource detectors synchronously in fork handlers` | Observability SDK · Process concurrency |
 | [MoneyPrinterTurbo #1581](https://github.com/harry0703/MoneyPrinterTurbo/pull/1581) | `feat(llm): add local OpenCode CLI provider with dynamic model discovery` | LLM integrations · Local developer tooling |
-| [Java Docs Samples](https://github.com/GoogleCloudPlatform/java-docs-samples) | Documentation improvements: product-level READMEs and documentation corrections | Developer experience · Documentation |
+| [OpenLLMetry #4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | Test hygiene · Sensitive-data handling |
+| [Mutagen #737](https://github.com/quodlibet/mutagen/pull/737) | `FLAC: rewind fileobj in load() and _save() to support file-like objects` | Audio metadata · Stream handling |
+| [Java Docs Samples #10353](https://github.com/GoogleCloudPlatform/java-docs-samples/pull/10353) | `docs: add missing product READMEs and fix two doc inaccuracies` | Developer experience · Documentation |
 
 ## `04 / WORKING SET`
 
