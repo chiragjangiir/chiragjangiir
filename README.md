@@ -48,6 +48,8 @@ I contribute to existing projects by investigating specific problems and proposi
 
 | Project | Contribution | Focus |
 |---|---|---|
+| [Remotion #12324](https://github.com/remotion-dev/remotion/pull/12324) | `Player: Keep the playback clock across effect re-runs when durationInFrames changes` | Video rendering & playback · Frame clock state |
+| [Remotion #12358](https://github.com/remotion-dev/remotion/pull/12358) | `remotion: Add a regression test for the AnimatedImage decoder lifecycle` | Video rendering & animation · Decoder lifecycle |
 | [SubtitleEdit #16005](https://github.com/SubtitleEdit/subtitleedit/pull/16005) | `IMSC 1.1: keep trailing <br/> forced line breaks` | Media & subtitles · Parser compliance |
 | [abogen #212](https://github.com/denizsafak/abogen/pull/212) | `fix(normalization): stop unclosed quotes from duplicating the text tail` | Text normalization · Edge-case handling |
 | [ViralMint #46](https://github.com/openclaw-easy/ViralMint/pull/46) | `fix(launcher): normalize X11-incompatible characters in tray titles` | Desktop tooling · Linux X11 compatibility |
@@ -59,6 +61,9 @@ I contribute to existing projects by investigating specific problems and proposi
 | Project | Contribution | Focus |
 |---|---|---|
 | [OpenTelemetry Python #5790](https://github.com/open-telemetry/opentelemetry-python/pull/5790) | `fix(sdk): run process-dependent resource detectors synchronously in fork handlers` | Observability SDK · Process concurrency |
+| [Headroom #4314](https://github.com/headroomlabs-ai/headroom/pull/4314) | `fix(proxy): keep Claude Code orchestration and interactive tools resident` | AI tooling & proxies · Tool deferral |
+| [Paperclip #16873](https://github.com/paperclipai/paperclip/pull/16873) | `fix(ai-connections): reject Codex provider flags in managed auth guard` | Agent platform · Authentication guards |
+| [OpenShot #6195](https://github.com/OpenShot/openshot-qt/pull/6195) | `fix(export): validate the file name instead of probing the temp folder` | Video editor GUI · Filesystem validation |
 | [MoneyPrinterTurbo #1581](https://github.com/harry0703/MoneyPrinterTurbo/pull/1581) | `feat(llm): add local OpenCode CLI provider with dynamic model discovery` | LLM integrations · Local developer tooling |
 | [OpenLLMetry #4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | Test hygiene · Sensitive-data handling |
 | [Mutagen #737](https://github.com/quodlibet/mutagen/pull/737) | `FLAC: rewind fileobj in load() and _save() to support file-like objects` | Audio metadata · Stream handling |
