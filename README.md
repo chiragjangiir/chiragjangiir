@@ -20,27 +20,7 @@ B.Tech · Computer Science and Engineering (AI & ML)
 
 </details>
 
-## `02 / SELECTED WORK`
-
-### [Cloud Vault](https://github.com/chiragjangiir/Cloud_Vault)
-
-A web-based cloud-storage project focused on managing files through a browser interface.
-
-`PROJECT` · `STORAGE` · `WEB`
-
-The repository is the source of truth for the current implementation and setup instructions.
-
-### Aadhaar enrolment & update analysis
-
-An analytical project exploring patterns in Aadhaar enrolment and update activity with Python-based data workflows.
-
-`PYTHON` · `PANDAS` · `DATA ANALYSIS`
-
-The focus is on careful preprocessing, aggregation, and interpretation—not presenting exploratory analysis as a production system or a verified policy finding.
-
-[Browse all repositories →](https://github.com/chiragjangiir?tab=repositories)
-
-## `03 / OPEN-SOURCE WORK`
+## `02 / OPEN-SOURCE WORK`
 
 I contribute to existing projects by investigating specific problems and proposing focused changes. The links below point directly to the work; their current review and merge status is visible on GitHub.
 
@@ -69,7 +49,7 @@ I contribute to existing projects by investigating specific problems and proposi
 | [Mutagen #737](https://github.com/quodlibet/mutagen/pull/737) | `FLAC: rewind fileobj in load() and _save() to support file-like objects` | Audio metadata · Stream handling |
 | [Java Docs Samples #10353](https://github.com/GoogleCloudPlatform/java-docs-samples/pull/10353) | `docs: add missing product READMEs and fix two doc inaccuracies` | Developer experience · Documentation |
 
-## `04 / WORKING SET`
+## `03 / WORKING SET`
 
 **AI & model applications**  
 LLM integrations · RAG concepts · AI agents · machine learning · data analysis
@@ -85,7 +65,7 @@ NumPy · Pandas · scikit-learn · Matplotlib · Jupyter · Docker · Vercel
 
 This is a map of the areas I work in, not a claim of equal depth across every tool.
 
-## `05 / PRINCIPLES`
+## `04 / PRINCIPLES`
 
 - **Understand before changing.** Read the surrounding code and tests before proposing a fix.
 - **Prefer evidence over theater.** Reproducible behavior matters more than impressive labels.
