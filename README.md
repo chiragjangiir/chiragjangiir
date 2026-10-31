@@ -35,19 +35,21 @@ I contribute to existing projects by investigating specific problems and proposi
 | [ViralMint #46](https://github.com/openclaw-easy/ViralMint/pull/46) | `fix(launcher): normalize X11-incompatible characters in tray titles` | Desktop tooling · Linux X11 compatibility |
 | [DevAgent #85](https://github.com/knight22-21/DevAgent/pull/85) | `fix(coordinator): log swallowed exceptions during decomposition and synthesis` | AI agents · Error observability |
 | [Clips Studio #134](https://github.com/ColinGPT9/clips-studio/pull/134) | `Download failures say which yt-dlp produced them` | CLI tooling · Failure attribution |
+| [modeldiff #10](https://github.com/OpenWave-India/modeldiff/pull/10) | `fix(eval): validate embedding matrix shapes before computing cosine similarity` | AI Evaluation · Tensor dimension assertions |
 
 ### Ongoing pull requests
 
 | Project | Contribution | Focus |
 |---|---|---|
-| [OpenTelemetry Python #5790](https://github.com/open-telemetry/opentelemetry-python/pull/5790) | `fix(sdk): run process-dependent resource detectors synchronously in fork handlers` | Observability SDK · Process concurrency |
+| [Molecule Plugins #398](https://github.com/ansible-community/molecule-plugins/pull/398) | `fix(podman): forward memory, memory_swap & pids_limit to container create` | Infrastructure & testing · Podman resource limits |
+| [Reframe #1820](https://github.com/reframe-oss/reframe/pull/1820) | `docs: update Keyboard Shortcuts table with all implemented shortcuts` | Media editor · Shortcut ergonomics & docs |
+| [xarray #11828](https://github.com/pydata/xarray/pull/11828) | `BUG: restore vectorized indexing for array-api-strict` | Data science · Array API compatibility |
+| [IBM MCP Context Forge #7336](https://github.com/IBM/mcp-context-forge/pull/7336) | `fix(ui): use delegated event handlers for search and password inputs` | AI Gateway · CSP security compliance |
 | [Headroom #4314](https://github.com/headroomlabs-ai/headroom/pull/4314) | `fix(proxy): keep Claude Code orchestration and interactive tools resident` | AI tooling & proxies · Tool deferral |
 | [Paperclip #16873](https://github.com/paperclipai/paperclip/pull/16873) | `fix(ai-connections): reject Codex provider flags in managed auth guard` | Agent platform · Authentication guards |
+| [OpenTelemetry Python #5790](https://github.com/open-telemetry/opentelemetry-python/pull/5790) | `fix(sdk): run process-dependent resource detectors synchronously in fork handlers` | Observability SDK · Process concurrency |
 | [OpenShot #6195](https://github.com/OpenShot/openshot-qt/pull/6195) | `fix(export): validate the file name instead of probing the temp folder` | Video editor GUI · Filesystem validation |
-| [MoneyPrinterTurbo #1581](https://github.com/harry0703/MoneyPrinterTurbo/pull/1581) | `feat(llm): add local OpenCode CLI provider with dynamic model discovery` | LLM integrations · Local developer tooling |
-| [OpenLLMetry #4540](https://github.com/traceloop/openllmetry/pull/4540) | `test(watsonx): redact API keys in VCR cassettes` | Test hygiene · Sensitive-data handling |
 | [Mutagen #737](https://github.com/quodlibet/mutagen/pull/737) | `FLAC: rewind fileobj in load() and _save() to support file-like objects` | Audio metadata · Stream handling |
-| [Java Docs Samples #10353](https://github.com/GoogleCloudPlatform/java-docs-samples/pull/10353) | `docs: add missing product READMEs and fix two doc inaccuracies` | Developer experience · Documentation |
 
 ## `03 / WORKING SET`
 
