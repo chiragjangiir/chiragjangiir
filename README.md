@@ -36,12 +36,12 @@ I contribute to existing projects by investigating specific problems and proposi
 | [DevAgent #85](https://github.com/knight22-21/DevAgent/pull/85) | `fix(coordinator): log swallowed exceptions during decomposition and synthesis` | AI agents · Error observability |
 | [Clips Studio #134](https://github.com/ColinGPT9/clips-studio/pull/134) | `Download failures say which yt-dlp produced them` | CLI tooling · Failure attribution |
 | [modeldiff #10](https://github.com/OpenWave-India/modeldiff/pull/10) | `fix(eval): validate embedding matrix shapes before computing cosine similarity` | AI Evaluation · Tensor dimension assertions |
+| [Molecule Plugins #398](https://github.com/ansible-community/molecule-plugins/pull/398) | `fix(podman): forward memory, memory_swap & pids_limit to container create` | Infrastructure & testing · Podman resource limits |
 
 ### Ongoing pull requests
 
 | Project | Contribution | Focus |
 |---|---|---|
-| [Molecule Plugins #398](https://github.com/ansible-community/molecule-plugins/pull/398) | `fix(podman): forward memory, memory_swap & pids_limit to container create` | Infrastructure & testing · Podman resource limits |
 | [Reframe #1820](https://github.com/reframe-oss/reframe/pull/1820) | `docs: update Keyboard Shortcuts table with all implemented shortcuts` | Media editor · Shortcut ergonomics & docs |
 | [xarray #11828](https://github.com/pydata/xarray/pull/11828) | `BUG: restore vectorized indexing for array-api-strict` | Data science · Array API compatibility |
 | [IBM MCP Context Forge #7336](https://github.com/IBM/mcp-context-forge/pull/7336) | `fix(ui): use delegated event handlers for search and password inputs` | AI Gateway · CSP security compliance |
