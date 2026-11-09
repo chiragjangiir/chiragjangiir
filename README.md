@@ -79,7 +79,7 @@ This is a map of the areas I work in, not a claim of equal depth across every to
 
 `INDEPENDENT ENGINEERING` &nbsp; / &nbsp; `AI SYSTEMS` &nbsp; / &nbsp; `OPEN SOURCE`
 
-[GitHub](https://github.com/chiragjangiir) · [Repositories](https://github.com/chiragjangiir?tab=repositories)
+[GitHub](https://github.com/chiragjangiir) · [Repositories](https://github.com/chiragjangiir?tab=repositories) · [Achievements](https://github.com/chiragjangiir?tab=achievements)
 
 <sub>Interested in practical AI, developer infrastructure, and open-source work that solves a real problem.</sub>
 
