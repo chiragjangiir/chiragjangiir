@@ -20,36 +20,35 @@ B.Tech · Computer Science and Engineering (AI & ML)
 
 </details>
 
-## `02 / OPEN-SOURCE WORK`
+## `02 / PROJECTS & OPEN SOURCE`
 
-I contribute to existing projects by investigating specific problems and proposing focused changes. The links below point directly to the work; their current review and merge status is visible on GitHub.
+A curated selection of things I build, maintain, and contribute to across AI systems, agent tooling, and developer infrastructure.
 
-### Merged contributions
+### Start Here
+- ☁️ [Cloud Vault](https://github.com/chiragjangiir/Cloud_Vault) — Secure, scalable cloud storage platform inspired by Google Drive with clean access control.
+- 🎯 [internship_autopilot](https://github.com/chiragjangiir/internship_autopilot) — Human-in-the-loop AI application assistant: deep company research, verified outreach, and staged email delivery.
+- ⚙️ [wheelgap](https://github.com/wheelgap/wheelgap) — Fast preflight tool catching Python dependencies without wheels for ARM, Alpine, and free-threaded 3.14t.
+- 🤖 [DevAgent](https://github.com/knight22-21/DevAgent) — Terminal-first AI agent bridging product specifications with production codebases.
 
-| Project | Contribution | Focus |
-|---|---|---|
-| [Remotion #12324](https://github.com/remotion-dev/remotion/pull/12324) | `Player: Keep the playback clock across effect re-runs when durationInFrames changes` | Video rendering & playback · Frame clock state |
-| [Remotion #12358](https://github.com/remotion-dev/remotion/pull/12358) | `remotion: Add a regression test for the AnimatedImage decoder lifecycle` | Video rendering & animation · Decoder lifecycle |
-| [SubtitleEdit #16005](https://github.com/SubtitleEdit/subtitleedit/pull/16005) | `IMSC 1.1: keep trailing <br/> forced line breaks` | Media & subtitles · Parser compliance |
-| [abogen #212](https://github.com/denizsafak/abogen/pull/212) | `fix(normalization): stop unclosed quotes from duplicating the text tail` | Text normalization · Edge-case handling |
-| [ViralMint #46](https://github.com/openclaw-easy/ViralMint/pull/46) | `fix(launcher): normalize X11-incompatible characters in tray titles` | Desktop tooling · Linux X11 compatibility |
-| [DevAgent #85](https://github.com/knight22-21/DevAgent/pull/85) | `fix(coordinator): log swallowed exceptions during decomposition and synthesis` | AI agents · Error observability |
-| [Clips Studio #134](https://github.com/ColinGPT9/clips-studio/pull/134) | `Download failures say which yt-dlp produced them` | CLI tooling · Failure attribution |
-| [modeldiff #10](https://github.com/OpenWave-India/modeldiff/pull/10) | `fix(eval): validate embedding matrix shapes before computing cosine similarity` | AI Evaluation · Tensor dimension assertions |
-| [Molecule Plugins #398](https://github.com/ansible-community/molecule-plugins/pull/398) | `fix(podman): forward memory, memory_swap & pids_limit to container create` | Infrastructure & testing · Podman resource limits |
+### Current Projects & Open Source
 
-### Ongoing pull requests
+#### AI Agents, Observability & Gateway
+- 🛡️ [HaltAI](https://github.com/IkarusAILabs/HaltAI) — Containability assurance and deployment-bound claim validation for autonomous agents.
+- 🗜️ [headroom](https://github.com/headroomlabs-ai/headroom) — LLM context compression proxy keeping core orchestration tools resident while compressing noisy tool outputs.
+- 🔍 [OpenPulse](https://github.com/IkarusAILabs/OpenPulse) — Open-source dependency intelligence: tracking EOL, license, distribution, and security events with verifiable proof.
+- 🌐 [mcp-context-forge](https://github.com/IBM/mcp-context-forge) — Enterprise AI Gateway and proxy layer orchestrating Model Context Protocol (MCP) servers and tool execution.
+- 📊 [openllmetry](https://github.com/traceloop/openllmetry) — OpenTelemetry-based observability, tracing, and metric instrumentation for LLM workflows.
 
-| Project | Contribution | Focus |
-|---|---|---|
-| [Reframe #1820](https://github.com/reframe-oss/reframe/pull/1820) | `docs: update Keyboard Shortcuts table with all implemented shortcuts` | Media editor · Shortcut ergonomics & docs |
-| [xarray #11828](https://github.com/pydata/xarray/pull/11828) | `BUG: restore vectorized indexing for array-api-strict` | Data science · Array API compatibility |
-| [IBM MCP Context Forge #7336](https://github.com/IBM/mcp-context-forge/pull/7336) | `fix(ui): use delegated event handlers for search and password inputs` | AI Gateway · CSP security compliance |
-| [Headroom #4314](https://github.com/headroomlabs-ai/headroom/pull/4314) | `fix(proxy): keep Claude Code orchestration and interactive tools resident` | AI tooling & proxies · Tool deferral |
-| [Paperclip #16873](https://github.com/paperclipai/paperclip/pull/16873) | `fix(ai-connections): reject Codex provider flags in managed auth guard` | Agent platform · Authentication guards |
-| [OpenTelemetry Python #5790](https://github.com/open-telemetry/opentelemetry-python/pull/5790) | `fix(sdk): run process-dependent resource detectors synchronously in fork handlers` | Observability SDK · Process concurrency |
-| [OpenShot #6195](https://github.com/OpenShot/openshot-qt/pull/6195) | `fix(export): validate the file name instead of probing the temp folder` | Video editor GUI · Filesystem validation |
-| [Mutagen #737](https://github.com/quodlibet/mutagen/pull/737) | `FLAC: rewind fileobj in load() and _save() to support file-like objects` | Audio metadata · Stream handling |
+#### Developer Tooling & Infrastructure
+- 🧪 [dex](https://github.com/exmergo/dex) — Agent-native analytics engineering toolkit for dbt: schema drift detection and transformation planning.
+- 📦 [pypa/build](https://github.com/pypa/build) — Core packaging frontend for building Python source trees into wheels and sdists.
+- ⚡ [anyio](https://github.com/agronholm/anyio) — High-level asynchronous concurrency and networking framework bridging asyncio and trio.
+- 🧩 [testcontainers-aws](https://github.com/manojkken/testcontainers-aws) — Deterministic cloud integration testing orchestrating LocalStack in containerized test suites.
+
+#### Media Engines & Web Systems
+- 🎬 [reframe](https://github.com/reframe-oss/reframe) — In-browser, client-side video editor powered by WebAssembly FFmpeg and accessible canvas rendering.
+- 🎥 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — Automated end-to-end video synthesis pipeline using LLM scripts, TTS, and timeline generation.
+- 🎵 [mutagen](https://github.com/quodlibet/mutagen) — Audio metadata processing engine supporting FLAC, MP3, and OGG stream operations.
 
 ## `03 / WORKING SET`
 
